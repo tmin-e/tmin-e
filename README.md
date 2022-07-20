@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет! Меня зовут Таня 👋  
+Я начинающий аналитик данных.  
 
-<!--
-**tmin-e/tmin-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤[vk][vk] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+💻[telegram - @tmin_e]
 
-Here are some ideas to get you started:
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[vk]: https://vk.com/tmin_e
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tatiana  Minko GitHub stats](https://github-readme-stats.vercel.app/api?username=tmin-e&show_icons=true&theme=dracula)
